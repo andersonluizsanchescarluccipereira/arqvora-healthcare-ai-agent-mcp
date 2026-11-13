@@ -1,0 +1,3 @@
+# SDK oficial MCP 1.x: compatibilidade validada contra documentação da linha 1.x.
+# Atualizações dentro da faixa exigem reexecução dos testes e revisão de dependências.
+mcp>=1.28,<2
